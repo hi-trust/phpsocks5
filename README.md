@@ -1,5 +1,4 @@
 # phpsocks5
-Automatically exported from code.google.com/p/phpsocks5
 现在的使用PHP空间做代理服务器的程序有很多限制，最主要是不能完美支持HTTPS。
 
 大多数自称完美支持HTTPS的使用PHP空间做代理服务器的程序（比如apjp）仍旧需要导入HTTPS的SSL证书才能让浏览器不提示证书错误，降低了HTTPS的安全性。其中还有部分程序需要PHP空间支持Mcrypt，大多数PHP空间都不支持Mcrypt。
